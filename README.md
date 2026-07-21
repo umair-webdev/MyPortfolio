@@ -35,23 +35,22 @@ I enjoy learning new technologies, working on real-world projects, and exploring
 
 ## 📂 Featured Projects
 
-### 🍽️ Nahid Caterers — Quotation Generator
+### 📝 Modern To-Do App
 
-A web-based catering quotation system focused on:
+A modern and responsive task management application built with HTML, CSS and JavaScript.
 
-- Quotation creation and management
-- Mobile responsive design
-- Firebase integration
-- Cloud features
-- PWA functionality
+**Features:**
+- Add, complete and delete tasks
+- Filter tasks by All, Active and Completed
+- Save tasks using LocalStorage
+- Dark and Light mode
+- Responsive design for mobile and desktop
 
-**Tech:** HTML • CSS • JavaScript • Firebase
+**Tech:** HTML • CSS • JavaScript • LocalStorage
 
-### 🏗️ Sai Darshan Construction
+🚀 **Live Demo:** [Open Modern To-Do App](https://umair-webdev.github.io/Modern-ToDo-App/)
 
-A responsive business website designed to showcase company information and provide customer contact functionality.
-
-**Tech:** HTML • CSS • JavaScript
+💻 **Repository:** [View Source Code](https://github.com/umair-webdev/Modern-ToDo-App)
 
 ---
 
@@ -59,7 +58,7 @@ A responsive business website designed to showcase company information and provi
 
 Check out my portfolio to see more about me and my projects:
 
-👉 **umair-webdev.github.io/MyPortfoilio/**
+👉 [**View My Portfolio**](https://umair-webdev.github.io/MyPortfolio/)
 
 ---
 
@@ -75,12 +74,12 @@ In the future, I also want to explore more advanced areas of **Cybersecurity and
 
 📧 Email: **uk306927@gmail.com**
 
-💻 GitHub: **@umair-webdev**
+💻 GitHub: **[@umair-webdev](https://github.com/umair-webdev)**
 
-🌐 Portfolio: **umair-webdev.github.io/MyPortfoilio/**
+🌐 Portfolio: **[umair-webdev.github.io/MyPortfolio](https://umair-webdev.github.io/MyPortfolio/)**
 
 ---
 
 ### ⚡ Keep Learning. Keep Building.
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my portfolio repository!
